@@ -1,0 +1,32 @@
+Script started on Fri 30 Nov 2018 10:24:17 PM EST
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/akhan625/Courses/CS2211a/Asns/asn5
+bash-4.2$ date
+Fri Nov 30 22:24:23 EST 2018
+bash-4.2$ who am i
+akhan625 pts/31       2018-11-30 22:24
+bash-4.2$ make
+gcc -c main.c 
+gcc -c matrix.c
+gcc -c bs_tree.c
+gcc -c datatype.c
+gcc -o mymatrix main.o matrix.o bs_tree.o datatype.o
+bash-4.2$ ./mymatrix 
+Type name of the text file into input: 
+keys.txt
+   String 1    String 2          Occurence
+      aab         aab                  1
+      aab         abb                  1
+      bba          aa                  2
+      bba         aaa                  1
+bash-4.2$ ls
+asn5_script	   bs_tree.c  bs_tree.o   datatype.h  keys.txt	main.o	  matrix.c  matrix.o
+Asn5_submform.txt  bs_tree.h  datatype.c  datatype.o  main.c	makefile  matrix.h  mymatrix
+bash-4.2$ make clean
+rm -f main *.o core
+bash-4.2$ ls
+asn5_script  Asn5_submform.txt	bs_tree.c  bs_tree.h  datatype.c  datatype.h  keys.txt	main.c	makefile  matrix.c  matrix.h  mymatrix
+bash-4.2$ exit
+exit
+
+Script done on Fri 30 Nov 2018 10:25:02 PM EST
