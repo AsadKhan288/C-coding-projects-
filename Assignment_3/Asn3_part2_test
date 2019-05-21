@@ -1,0 +1,54 @@
+Script started on Wed 31 Oct 2018 10:45:46 PM EDT
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/akhan625/Courses/CS2211a/Asns/asn3
+bash-4.2$ date
+Wed Oct 31 22:45:52 EDT 2018
+bash-4.2$ who am i
+akhan625 pts/32       2018-10-31 22:45
+bash-4.2$ ./Asn3_part_2 
+Input the value: 
+0
+ _ 
+| |
+|_|
+To continue 'Y', to exit 'N'
+Y
+Input the value: 
+7
+ _ 
+  |
+  |
+To continue 'Y', to exit 'N'
+Y
+Input the value: 
+13 3 8
+    _ 
+  ||_|
+  ||_|
+To continue 'Y', to exit 'N'
+Y
+Input the value: 
+-21
+  _    
+_ _|  |
+ |_   |
+To continue 'Y', to exit 'N'
+Y
+Input the value: 
+100
+    _  _ 
+  || || |
+  ||_||_|
+To continue 'Y', to exit 'N'
+Y
+Input the value: 
+-121   221
+  _  _    
+_ _| _|  |
+ |_ |_   |
+To continue 'Y', to exit 'N'
+N
+bash-4.2$ exit
+exit
+
+Script done on Wed 31 Oct 2018 10:47:10 PM EDT

@@ -1,0 +1,39 @@
+Script started on Thu 01 Nov 2018 01:25:56 AM EDT
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/akhan625/Courses/CS2211a/Asns/asn3
+bash-4.2$ date
+Thu Nov  1 01:26:16 EDT 2018
+bash-4.2$ who am i
+akhan625 pts/4        2018-11-01 01:25
+bash-4.2$ ./Asn3_part_1 
+Enter a simple arithmetic expression: 5
+ The result is 5.000000
+Do you want to continue? Y/N
+Y
+Enter a simple arithmetic expression: 3*4
+ The result is 12.000000
+Do you want to continue? Y/N
+Y
+Enter a simple arithmetic expression: 2.6/2-1.5*10
+ The result is -13.700000
+Do you want to continue? Y/N
+Y
+Enter a simple arithmetic expression: -2.0*2+1.4 5*10-199  00
+ The result is -89.000000
+Do you want to continue? Y/N
+Y
+Enter a simple arithmetic expression: 3.5-1.5   -1.5     -1.5*10/3, .0+2*3
+ The result is 14.500000
+Do you want to continue? Y/N
+Y
+Enter a simple arithmetic expression: 3.5-1.5%10-2.0
+Invalid Operator 
+Invalid Operator 
+ The result is 0.000000
+Do you want to continue? Y/N
+bash-4.2$ N
+bash: N: command not found
+bash-4.2$ exit
+exit
+
+Script done on Thu 01 Nov 2018 01:31:08 AM EDT
